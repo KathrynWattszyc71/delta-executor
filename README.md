@@ -104,7 +104,7 @@ Follow these simple steps:
 
 We welcome your feedback and ideas to enhance **Sims 4 Cheat**:
 
-- **📧 Share Feedback**: Open an issue or submit a suggestion on GitHub.  
+ 
 - **🌟 Join the Community**: Fork the repo and share your improvements.
 
 > **Together, we can take Sims 4 to the next level!** 🏡✨
