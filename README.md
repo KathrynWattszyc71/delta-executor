@@ -27,22 +27,26 @@
 The **Sims 4 Cheat** offers an intuitive layout for ease of use:
 
 <details>
-  <summary>📋 **Main Panel**</summary>
+  <summary>📋 Main Panel</summary>
+  
   - **Quick Access Commands** - Manage actions swiftly.  
   - **Detailed Overviews** - Track your changes in real-time.
 </details>
 
 <details>
-  <summary>🔑 **Cheat Tools**</summary>
+  <summary>🔑 Cheat Tools</summary>
+  
   - **Money Generator** - Add Simoleons instantly.  
   - **Needs Control** - Adjust hunger, fun, and other metrics effortlessly.
 </details>
 
 <details>
-  <summary>⚙️ **Customization Hub**</summary>
+  <summary>⚙️ Customization Hub</summary>
+  
   - **Theme Selector** - Choose from various interface themes.  
   - **Performance Adjustments** - Optimize for your system's capability.
 </details>
+
 
 ---
 
