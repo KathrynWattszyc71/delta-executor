@@ -72,7 +72,7 @@ The **Sims 4 Cheat** offers an intuitive layout for ease of use:
 
 Follow these simple steps:
 
-1. **Download**
+1. **Download Sims 4 Cheat**
    
 2. **Launch the Application**
    - Open the cheat menu in-game and start exploring features.
